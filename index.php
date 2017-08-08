@@ -334,6 +334,7 @@ function NumPar( $valor )
 	return $PARIM;
 }
 
+	
 
 ?>
 
